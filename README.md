@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm mungodri00
+# 👋 Hi, I'm Jiyong Kim
 
 ### Backend Developer | Java & Spring Boot
 ### Frontend Developer | React
